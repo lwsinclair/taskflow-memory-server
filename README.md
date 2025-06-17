@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kiranraathod-taskflow-memory-server-badge.png)](https://mseep.ai/app/kiranraathod-taskflow-memory-server)
+
 # TaskFlow Memory Server
 
 A task management server with persistent memory architecture for maintaining context and managing workflow execution.
